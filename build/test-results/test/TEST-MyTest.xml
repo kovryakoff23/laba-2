@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-15T22:20:30" hostname="LAPTOP-88TNBPF5" time="0.009">
+  <properties/>
+  <testcase name="TestSolution" classname="MyTest" time="0.009"/>
+  <system-out><![CDATA[[(, 2, +, (, 5, *, 6, ), -, 12, ), /, 5]
+[30.0]
+[2, +, 30.0, -, 12]
+[4.0]
+[]
+[4.0]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
